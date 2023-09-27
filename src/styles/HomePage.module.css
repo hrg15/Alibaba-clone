@@ -1,0 +1,19 @@
+.homePage {
+  width: 100%;
+}
+.homePage p {
+  line-height: 2.3;
+}
+
+.homePageBg {
+  position: relative;
+  height: 320px;
+  background: #fff;
+}
+
+.homePageBg img {
+  position: absolute;
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+}

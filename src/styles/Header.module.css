@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  position: fixed;
+  z-index: 40;
+  background-color: #fff;
+  font-weight: 500;
+  top: 0;
+  left: 0;
+  right: 0;
+  min-height: 4rem;
+  will-change: transform;
+  transition: transform 0.2s ease-out;
+  border-bottom: solid 1px var(--border-1);
+  box-shadow: var(--shadow-md);
+  height: 4rem;
+}
